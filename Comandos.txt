@@ -1,0 +1,7 @@
+========================================================== COMANDOS ==========================================================
+
+° go mod init [nombre_proyecto]: Comando utilizado para inicializar las instrucciones de dependencias de Golang.
+
+° go get -u github.com/go-sql-driver/mysql: Comando utilizado para descargar via internet un driver que permita la conexión entre Golang y MySQL.
+
+° go run [nombre_archivo]: Comando utilizado para correr el programa de Golang. El servidor corre por defecto en el navegador con la dirección localhost:8080/inicio
